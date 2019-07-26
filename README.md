@@ -12,8 +12,8 @@
   	<li>Marked.js</li>
 </ul>
 <h2>Where to find the project...</h2>
-<p>Click <a href="https://marcomaz.github.io/markdown-previwer-react/" target="_blank"> here</a> or in the image below <br/><br/>
-	<a href="https://marcomaz.github.io/markdown-previwer-react/" target="_blank">
+<p>Click <a href="https://marcomaz.github.io/markdown-previewer-react/" target="_blank"> here</a> or in the image below <br/><br/>
+	<a href="https://marcomaz.github.io/markdown-previewer-react/" target="_blank">
 		<img src="https://www.dropbox.com/s/2mf2oc8g89lhfan/23-markdown-previewer-react.jpg?raw=1">
 	</a>
 </p>
